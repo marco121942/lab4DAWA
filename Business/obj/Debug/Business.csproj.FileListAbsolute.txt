@@ -1,0 +1,22 @@
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Business.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\obj\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Business\obj\Debug\Business.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Business.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Business.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Data.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Entity.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Data.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\bin\Debug\Entity.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\obj\Debug\Business.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Business\obj\Debug\Business.pdb

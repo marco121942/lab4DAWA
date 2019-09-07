@@ -1,0 +1,44 @@
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\MainWindow.g.cs
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\App.g.cs
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.lref
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Semana04.exe.config
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Semana04.exe
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Semana04.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Business.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\MainWindow.baml
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.g.resources
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.Properties.Resources.resources
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.csproj.GenerateResource.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.exe
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Semana04\obj\Debug\Semana04.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Semana04.exe.config
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Semana04.exe
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Semana04.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Business.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Data.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Entity.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Business.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Data.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\bin\Debug\Entity.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.csprojAssemblyReference.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\MainWindow.g.cs
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\App.g.cs
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.lref
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\MainWindow.baml
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.g.resources
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.Properties.Resources.resources
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.csproj.GenerateResource.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.csproj.CoreCompileInputs.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.csproj.CopyComplete
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.exe
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Semana04\obj\Debug\Semana04.pdb

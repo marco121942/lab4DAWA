@@ -1,0 +1,12 @@
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\obj\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Entity\obj\Debug\Entity.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\bin\Debug\Entity.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\bin\Debug\Entity.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\obj\Debug\Entity.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Entity\obj\Debug\Entity.pdb

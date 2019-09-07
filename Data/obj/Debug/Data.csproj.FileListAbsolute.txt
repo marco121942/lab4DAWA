@@ -1,0 +1,18 @@
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\obj\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S4\Semana04\Data\obj\Debug\Data.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\bin\Debug\Data.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\bin\Debug\Data.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\bin\Debug\Entity.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\bin\Debug\Entity.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\obj\Debug\Data.dll
+B:\Proyectos de Aplicaciones Web Avanzado\Semana04-DesAEA-master\Semana04\Data\obj\Debug\Data.pdb
